@@ -29,7 +29,11 @@
     	<groupId>io.riemann</groupId>
     	<artifactId>riemann-java-client</artifactId>
     	<version>0.4.7-SNAPSHOT</version>
-    	<type>pom</type>
+    </dependency>
+    <dependency>
+    	<groupId>io.riemann</groupId>
+    	<artifactId>metrics3-riemann-reporter</artifactId>
+    	<version>0.4.7-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>io.dropwizard.metrics</groupId>
